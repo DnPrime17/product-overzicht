@@ -1,0 +1,8 @@
+{
+  "name": "maxserv/opdracht-klas-2024",
+  "description": "Docker & PHP opdracht voor de klas van 2024",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "php": "^8.2"
+  }
+}

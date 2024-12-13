@@ -1,0 +1,13 @@
+# Ignore everything by default
+*
+
+# Project files
+!/.gitignore
+!/composer.json
+!/Dockerfile
+!/docker-compose.yml
+!/.dockerignore
+!/public
+!/public/index.php
+!/src
+!/src/**/*
